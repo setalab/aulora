@@ -10,6 +10,7 @@ Contact :  www.setalab.com help@setalab.com
 https://youtu.be/MoPm72SUUzI
 
  https://youtu.be/bTfFbvgL5HY
+
 ------------------------------------------------------------------
 AuLoRa 1.2.1 버전 라이센스 서버IP 및 포트 업데이트 2021. 06. 28
 
